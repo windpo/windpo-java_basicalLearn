@@ -1,3 +1,8 @@
+package array;
+
+/**
+ * 数组的声明、定义以及初始化
+ */
 public class ArrayTest {
     private   int[] ages;//数组的定义
     private   String[] names={"小明"};//数组的定义以及初始化
